@@ -25,8 +25,8 @@ Univent is a comprehensive event management platform that I'm currently working 
 
 ## Get in Touch 📬
 
-- **Email**: [takitahmid@gmail.com](mailto:takitahmid@gmail.com)
+- **Email**: [takitahmid20@gmail.com](mailto:takitahmid20@gmail.com)
 - **LinkedIn**: [Taki Tahmid](https://www.linkedin.com/in/takitahmid/)
-- **GitHub**: [takitahmid](https://github.com/takitahmid)
+- **GitHub**: [takitahmid20](https://github.com/takitahmid20)
 
 Feel free to reach out if you have any questions, or if you'd like to collaborate on a project!
