@@ -1,47 +1,32 @@
-<h2 align="left">Hi 👋! My name is Taki Tahmid, and I'm a Backend Developer and UI/UX Designer from Dhaka, Bangladesh.</h2>
+# Taki Tahmid
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=takitahmid&label=Profile%20views&color=0e75b6&style=flat" alt="takitahmid" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me 👋
 
-###
+I'm Taki Tahmid, a Backend Developer specializing in the Django framework of Python. I'm also a UI/UX Designer and have a keen interest in entrepreneurship and tech business.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Currently, I'm studying Computer Science and Engineering at the United International University in Dhaka. I'm passionate about using technology to solve problems and create innovative solutions.
 
-###
+## Skills 🛠️
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="django logo"  />
-</div>
+- **Backend Development**: Django, Python
+- **Frontend Development**: Next.js
+- **UI/UX Design**: Figma, Adobe XD
+- **Entrepreneurship**: Business planning, market research, problem-solving
 
-###
+## Recent Projects 📚
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-</div>
+### Univent - Technology Event Management System
 
-###
+**Tech Stack**: Next.js, Django, PostgreSQL
 
-<br clear="both">
+Univent is a comprehensive event management platform that I'm currently working on. It allows organizers to easily create, manage, and promote tech-focused events, while providing attendees with a seamless experience.
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## Get in Touch 📬
 
-###
+- **Email**: [takitahmid@gmail.com](mailto:takitahmid@gmail.com)
+- **LinkedIn**: [Taki Tahmid](https://www.linkedin.com/in/takitahmid/)
+- **GitHub**: [takitahmid](https://github.com/takitahmid)
 
-Currently, I’m working on **Univent**—a technology event management system using Next.js and Django. With a strong foundation in both backend development and design, I enjoy creating efficient solutions and seamless user experiences.
+Feel free to reach out if you have any questions, or if you'd like to collaborate on a project!
