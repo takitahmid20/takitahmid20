@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/takitahmid">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/takitahmid20">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:takitahmid20@gmail.com">Email</a>
   &nbsp;·&nbsp;
@@ -302,7 +302,7 @@ A surprising number of my projects started with:
 If you're building something interesting — a product, startup, experiment, or simply an idea that deserves to exist — I'm always interested in a good conversation.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/takitahmid">
+  <a href="https://www.linkedin.com/in/takitahmid20">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:takitahmid20@gmail.com">
