@@ -280,13 +280,20 @@ A surprising number of my projects started with:
 ## 08 / GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takitahmid20&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takitahmid20&layout=compact&hide_border=true&langs_count=7&theme=transparent" height="165"/>
+  <a href="https://github.com/takitahmid20">
+    <img
+      src="https://streak-stats.demolab.com?user=takitahmid20&hide_border=true&background=00000000&border_radius=0&locale=en&short_numbers=true"
+      alt="Taki Tahmid's GitHub contribution streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=takitahmid20&hide_border=true&theme=transparent" />
+  <a href="https://github.com/takitahmid20?tab=repositories">
+    Explore repositories →
+  </a>
 </p>
+
 
 ---
 
