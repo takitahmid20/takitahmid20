@@ -234,7 +234,7 @@ Sometimes it means I have 17 unfinished ideas in my notes.
 If you're building something interesting, working on a product, or just want to talk about **design, engineering, startups, AI, or building products** — feel free to reach out.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/takitahmid">
+  <a href="https://www.linkedin.com/in/takitahmid20">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:takitahmid20@gmail.com">
